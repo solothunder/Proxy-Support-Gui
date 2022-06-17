@@ -13,13 +13,21 @@ sudo yum install apt
 
 などでaptを入れます。
 
-起動する際は setup.shをこのように起動します->sh setup.sh
+Windows の CUI版の起動はこのバッチファイルを実行してください->setup.bat
 
+Windows の GUI版は絶対にお勧めできないのでやり方は教えません。
+
+Linux GUI版を起動する際は setup.shをこのように起動します->sh setup.sh
+
+Linuxの場合
 Python3とPIP3が必要になるので
 入っていなければ
 sudo apt install python3 python3-pip
 などでPython3とPIP3を入れます。
 これで環境は揃ったと思われます。
+Windowsの場合
+https://www.python.org/downloads/
+からPythonをダウンロードしてください。
 
 もし問題が起こったら
 Discord : solo-thunder#0581
