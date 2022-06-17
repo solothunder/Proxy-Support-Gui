@@ -1,9 +1,9 @@
 # Proxy-Support-Gui
 
-Minecraft-Proxy-Support Program
+Proxy-Support Program　Gui・Cui
 
 このソフトのダウンロードをしていただきありがとうございます。
-こちらのソフトはVPSなどのコンソール環境でも使えるCUIの「Minecraft-Proxy-Support」です。
+こちらのソフトはWindows Server VPS・Linux VPSなどのコンソール環境でも使えるGui・Cuiの「Proxy-Support」です。
 構成としては
 Nginx 1.18.0でプロキシを立てています。
 私の開発環境　兼　確認環境ではCPU AMD64 (64Bit)/Intel x64を使っていますなのでARM系CPUでは動かないかもしれません。
@@ -15,7 +15,7 @@ sudo yum install apt
 
 Windows の CUI版の起動はこのバッチファイルを実行してください->setup.bat
 
-Windows の GUI版は絶対にお勧めできないのでやり方は教えません。
+Windows の GUI版は絶対にお勧めできないのでやり方は教えません。(バグもあるかも)
 
 Linux GUI版を起動する際は setup.shをこのように起動します->sh setup.sh
 
