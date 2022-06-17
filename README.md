@@ -1,4 +1,4 @@
-# Proxy-Support-Gui
+# Proxy-Support-Gui・CUI
 
 Proxy-Support Program　Gui・Cui
 
